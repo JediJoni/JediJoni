@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonas Korganas</h1>
 <h3 align="center">Aspiring data scientist & student at King's college London, with a major in Physics, from England.</h3>
 
-- 🔭 I’m currently working at Mozart AI
+- 🔭 I’m a formal ML enginner at Mozart AI
 
 - 📫 How to reach me **korganasjonas@gmail.com**
 
