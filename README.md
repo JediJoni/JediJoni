@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **korganasjonas@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/irhpokdn87](https://flowcv.com/resume/irhpokdn87)
+#- 📄 Know about my experiences [https://flowcv.com/resume/irhpokdn87](https://flowcv.com/resume/irhpokdn87)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
