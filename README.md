@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonas Korganas</h1>
 <h3 align="center">Aspiring data scientist with a Bachelor in Science (Hons) in Physics from King's College London, from England.</h3>
 
-- 🔭 I’m a formal Junior Data Scientist & ML enginner at Mozart AI
+- 🔭 Former Junior Data Scientist & ML enginner at Mozart AI
 
 - 📫 How to reach me **korganasjonas@gmail.com**
 
